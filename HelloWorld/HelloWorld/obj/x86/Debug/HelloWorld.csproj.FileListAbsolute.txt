@@ -1,0 +1,5 @@
+/Users/erikschempp/Dev/Code/GCHub/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/erikschempp/Dev/Code/GCHub/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/erikschempp/Dev/Code/GCHub/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/erikschempp/Dev/Code/GCHub/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/Users/erikschempp/Dev/Code/GCHub/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.pdb

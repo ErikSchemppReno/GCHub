@@ -1,0 +1,5 @@
+/Users/erikschempp/Dev/Code/GCHub/HelloWorld/StringLibrary/bin/Debug/StringLibrary.dll
+/Users/erikschempp/Dev/Code/GCHub/HelloWorld/StringLibrary/bin/Debug/StringLibrary.pdb
+/Users/erikschempp/Dev/Code/GCHub/HelloWorld/StringLibrary/obj/Debug/StringLibrary.csproj.CoreCompileInputs.cache
+/Users/erikschempp/Dev/Code/GCHub/HelloWorld/StringLibrary/obj/Debug/StringLibrary.dll
+/Users/erikschempp/Dev/Code/GCHub/HelloWorld/StringLibrary/obj/Debug/StringLibrary.pdb
