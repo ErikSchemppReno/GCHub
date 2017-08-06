@@ -1,10 +1,16 @@
 ﻿using System;
-namespace StringLibrary
+
+namespace UtilityLibraries
 {
-    public class MyClass
-    {
-        public MyClass()
-        {
-        }
-    }
+	public static class StringLibrary
+	{
+		public static bool StartsWithUpper(this String str)
+		{
+			if (String.IsNullOrWhiteSpace(str))
+				return false;
+
+			Char ch = str[0];
+			return Char.IsUpper(ch);
+		}
+	}
 }
